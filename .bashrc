@@ -141,6 +141,5 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 # conda deactivate
-export CLANGD_FLAGS="-I/usr/include/c++/11"
 yokadi t_list todo
 fortune | cowsay
